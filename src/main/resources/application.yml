@@ -1,0 +1,10 @@
+password:
+  validator:
+    minimal:
+      length: 6
+    special:
+      symbols: "@"
+email:
+  validator:
+    special:
+      characters: "123456789!#$%^&*()"
